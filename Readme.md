@@ -1,4 +1,4 @@
-# x-ways-Metadefender-extensions
+# X-Ways-Metadefender-extensions
 Home of the Metadefender Opswat extension for X-Ways that Polito Inc. developed in partnership with Opswat.
 
 Metadefender hash query extension for X-Ways Forensics platform. Requires Metadefender API credentials.
