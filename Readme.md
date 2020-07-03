@@ -12,3 +12,4 @@ Polito Inc. is providing the Opswat Metadefender hash query and file submission 
 <p>Hashes of the files : 
 
 <p>  MD5      E5C592511A799692650A2A5B304FAED0                  MetaDefenderXTension.dll
+https://github.com/PolitoInc/X-Ways-Opswat-Extension/blob/master/image%20(2).png
