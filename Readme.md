@@ -14,4 +14,5 @@ Polito Inc. is providing the Opswat Metadefender hash query and file submission 
 <p>  MD5      E5C592511A799692650A2A5B304FAED0                  MetaDefenderXTension.dll
 <p> After running plugin, output of results are in Metadata column
 <p>
-<img src="./image%20(2).png">
+# See blog post here for more details and instructions for how to use this extension in X-Ways: 
+# <img src="./image%20(2).png">
