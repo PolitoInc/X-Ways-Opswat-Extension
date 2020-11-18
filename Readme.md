@@ -3,7 +3,7 @@ Home of the Metadefender OPSWAT extension for X-Ways that Polito Inc. developed 
 
 Metadefender hash query extension for X-Ways Forensics platform. Requires MetaDefender API credentials.
 OPSWAT api credentials can be obtained here : https://metadefender.opswat.com/licensing?lang=en
-Please see our blog post for detailed instructions about how to use this MetaDefender plugin with X-Ways: https://www.politoinc.com/ It has been tested on X-Ways versions 19.3 and 19.9 (64-bit only). Additional versions are still being tested for compatibility. 
+Please see our blog post for detailed instructions about how to use this MetaDefender plugin with X-Ways: https://www.politoinc.com/post/2020/08/05/enhancing-digital-forensics-with-x-ways-x-tensions-metadefender-plugin It has been tested on X-Ways versions 19.3 and 19.9 (64-bit only). Additional versions are still being tested for compatibility. 
 
 Feel free to open an issue in GitHub or contact us if you encounter any issues or want to suggest a feature. We will do our best to respond in a timely manner.
 
