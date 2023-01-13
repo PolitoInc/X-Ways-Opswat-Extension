@@ -1,0 +1,6 @@
+LIBRARY MD_SubmitFile
+EXPORT
+	XT_Init	@1
+	XT_Done @2
+	XT_About @3
+	XT_ProcessItemEx @4
